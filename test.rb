@@ -5,8 +5,10 @@ def square_array(array)
   square_array = []
   while count < array.length do
     # square_array.push(array[count]**2)
-    puts square_array.push(array[count])
+    square_array.push(array[count])
     counter += 1
   end
   # square_array
 end
+
+square_array(array)
