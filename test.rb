@@ -11,4 +11,4 @@ def square_array(array)
   # square_array
 end
 
-# puts square_array
+puts square_array
