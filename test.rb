@@ -1,1 +1,3 @@
-puts 5**
+
+num = 2
+puts num**
