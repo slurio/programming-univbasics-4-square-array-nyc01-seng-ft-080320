@@ -1,3 +1,3 @@
 num = 2
 
-puts num * num
+puts num%2
